@@ -7,7 +7,7 @@ export default function DownloadButton() {
 	};
 	return (
 		<button
-			className='bg-yellow-500/90 text-neutral-100 rounded-xl min-w-[196px] w-[196px] leading-10 hover:scale-[1.15] hover:bg-yellow-500/75 transition-all duration-200'
+			className='self-center md:self-start bg-yellow-500/90 text-neutral-100 rounded-xl min-w-[196px] w-[196px] leading-10 hover:scale-[1.15] hover:bg-yellow-500/75 transition-all duration-200'
 			onClick={downloadOnClick}
 		>
 			Download my CV
