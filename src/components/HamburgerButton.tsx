@@ -12,7 +12,7 @@ export default function HamburgerButton({
 
 	return (
 		<button
-			className='md:hidden fixed z-50 right-4 top-4 text-neutral-100 text-3xl hover:text-yellow-400 transition-colors duration-200'
+			className='md:hidden absolute z-50 right-4 top-4 text-neutral-100 text-3xl hover:text-yellow-400 transition-colors duration-200'
 			onClick={handleClick}
 		>
 			<RxHamburgerMenu />
