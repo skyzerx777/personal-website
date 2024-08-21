@@ -14,7 +14,7 @@ export default function HamburgerMenu({
 					<a href='#about'>About me</a>
 				</li>
 				<li className='text-neutral-300 leading-loose hover:text-yellow-400 transition-colors duration-200'>
-					<a href='#'>My skills</a>
+					<a href='#skills'>My skills</a>
 				</li>
 				<li className='text-neutral-300 leading-loose hover:text-yellow-400 transition-colors duration-200'>
 					<a href='#'>Portfolio</a>
