@@ -7,18 +7,18 @@ type SkillType = {
 
 export default function SkillsSection() {
 	const skillList: SkillType[] = [
-		{ name: 'JavaScript', iconPath: '/src/assets/JavaScriptIcon.png' },
-		{ name: 'TypeScript', iconPath: '/src/assets/TypeScriptIcon.png' },
-		{ name: 'React', iconPath: '/src/assets/ReactIcon.png' },
-		{ name: 'CSS3', iconPath: '/src/assets/CssIcon.png' },
-		{ name: 'SCSS', iconPath: '/src/assets/SassIcon.png' },
-		{ name: 'TailwindCSS', iconPath: '/src/assets/TailwindIcon.png' },
-		{ name: 'Bootstrap', iconPath: '/src/assets/BootstrapIcon.png' },
-		{ name: 'HTML5', iconPath: '/src/assets/HtmlIcon.png' },
-		{ name: 'GIT', iconPath: '/src/assets/GitIcon.png' },
-		{ name: 'REST API', iconPath: '/src/assets/RestIcon.png' },
-		{ name: 'Redux', iconPath: '/src/assets/ReduxIcon.png' },
-		{ name: 'Figma', iconPath: '/src/assets/FigmaIcon.png' },
+		{ name: 'JavaScript', iconPath: '/assets/JavaScriptIcon.png' },
+		{ name: 'TypeScript', iconPath: '/assets/TypeScriptIcon.png' },
+		{ name: 'React', iconPath: '/assets/ReactIcon.png' },
+		{ name: 'CSS3', iconPath: '/assets/CssIcon.png' },
+		{ name: 'SCSS', iconPath: '/assets/SassIcon.png' },
+		{ name: 'TailwindCSS', iconPath: '/assets/TailwindIcon.png' },
+		{ name: 'Bootstrap', iconPath: '/assets/BootstrapIcon.png' },
+		{ name: 'HTML5', iconPath: '/assets/HtmlIcon.png' },
+		{ name: 'GIT', iconPath: '/assets/GitIcon.png' },
+		{ name: 'REST API', iconPath: '/assets/RestIcon.png' },
+		{ name: 'Redux', iconPath: '/assets/ReduxIcon.png' },
+		{ name: 'Figma', iconPath: '/assets/FigmaIcon.png' },
 	];
 	return (
 		<section

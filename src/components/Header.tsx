@@ -25,7 +25,7 @@ export default function Header() {
 					<DownloadButton></DownloadButton>
 				</div>
 				<div className='hidden w-1/3 flex-shrink-0 rounded-xl overflow-hidden md:block self-center'>
-					<img src='/src/assets/AuthorsPhoto.PNG' alt='Author`s photo' />
+					<img src='/assets/AuthorsPhoto.PNG' alt='Author`s photo' />
 				</div>
 			</div>
 		</header>

@@ -11,21 +11,21 @@ export default function PortfolioSection() {
 	const worksList: WorksType[] = [
 		{
 			name: 'ToDoList',
-			previewImagePath: '/src/assets/ToDoList.png',
+			previewImagePath: '/assets/ToDoList.png',
 			description:
 				'"To Do List" React app with the ability to create notes, add them to favorites, edit and delete them. There is also a mechanism to search among the created notes, change the theme and separately view and search for notes in the favorites list. Also all notes are stored in memory, which allows you not to lose them after the end of the session.',
 			link: 'https://to-do-react-gamma.vercel.app/',
 		},
 		{
 			name: 'TicTacToe',
-			previewImagePath: '/src/assets/TicTacToe.png',
+			previewImagePath: '/assets/TicTacToe.png',
 			description:
 				'Folk game "Tic Tac Toe" made on React using Redux. As on all other projects adaptive is implemented, so you can play with friends on your phone and computer.',
 			link: 'https://tic-tac-toe-mu-bice.vercel.app/',
 		},
 		{
 			name: 'WeatherApp',
-			previewImagePath: '/src/assets/WeatherApp.png',
+			previewImagePath: '/assets/WeatherApp.png',
 			description:
 				'Application to view weather forecast in any city in the world. "Open Weather Map” API was used, as well as "react-router". You can select any of the cities on the main page and view its weather or use the search implemented with the help of "react-select" library.',
 			link: 'https://weather-app-react-seven-pi.vercel.app/',
