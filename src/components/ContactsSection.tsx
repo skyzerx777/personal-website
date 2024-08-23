@@ -10,7 +10,7 @@ export default function ContactsSection() {
 	return (
 		<section
 			id='contacts'
-			className='flex flex-col justify-center items-center content-center py-6 px-4 sm:px-12 md:px-24 lg:px-36 text-neutral-100 text-center min-h-screen gap-y-5 bg-[#1d1d1d] bg-[url("/src/assets/bg.png")] bg-center bg-cover bg-no-repeat'
+			className='flex flex-col justify-center items-center content-center py-6 px-4 sm:px-12 md:px-24 lg:px-36 text-neutral-100 text-center min-h-screen gap-y-5 bg-[#1d1d1d] bg-[url("/assets/bg.png")] bg-center bg-cover bg-no-repeat'
 		>
 			<h2 className='text-4xl leading-loose font-bold w-full'>
 				How to contact me?

@@ -23,7 +23,7 @@ export default function SkillsSection() {
 	return (
 		<section
 			id='skills'
-			className='flex flex-wrap items-center content-center py-6 px-4 sm:px-12 md:px-24 lg:px-36 text-neutral-100 text-center min-h-screen bg-[#1d1d1d] bg-[url("/src/assets/bg.png")] bg-center bg-cover bg-no-repeat gap-y-5'
+			className='flex flex-wrap items-center content-center py-6 px-4 sm:px-12 md:px-24 lg:px-36 text-neutral-100 text-center min-h-screen bg-[#1d1d1d] bg-[url("/assets/bg.png")] bg-center bg-cover bg-no-repeat gap-y-5'
 		>
 			<h2 className='text-4xl leading-loose font-bold w-full'>My skills</h2>
 			<div className='flex flex-wrap mt-3 leading-relaxed relative md:flex-row gap-5 justify-center'>
