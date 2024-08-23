@@ -2,7 +2,7 @@ export default function AboutMeSection() {
 	return (
 		<section
 			id='about'
-			className='flex flex-wrap items-center content-center py-6 px-4 sm:px-12 md:px-24 lg:px-36 bg-neutral-100 text-[#1d1d1d] text-center min-h-screen'
+			className='flex flex-wrap items-center content-center py-6 px-4 sm:px-12 md:px-24 lg:px-36 bg-neutral-100 text-[#1d1d1d] text-center min-h-screen gap-y-5'
 		>
 			<h2 className='text-4xl leading-loose font-bold w-full'>About me</h2>
 			<div className='mt-3 leading-relaxed relative flex flex-col md:flex-row gap-4 justify-center'>

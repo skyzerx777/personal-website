@@ -9,10 +9,10 @@ export default function Navbar() {
 					<a href='#skills'>My skills</a>
 				</li>
 				<li className='text-neutral-300 hover:text-yellow-400 transition-colors duration-200 after:block after:w-0 hover:after:w-full after:h-[2px] after:bg-yellow-400 after:transition-[width] after:duration-200'>
-					<a href='#'>Portfolio</a>
+					<a href='#portfolio'>Portfolio</a>
 				</li>
 				<li className='text-neutral-300 hover:text-yellow-400 transition-colors duration-200 after:block after:w-0 hover:after:w-full after:h-[2px] after:bg-yellow-400 after:transition-[width] after:duration-200'>
-					<a href='#'>Contacts</a>
+					<a href='#contacts'>Contacts</a>
 				</li>
 			</ul>
 		</nav>

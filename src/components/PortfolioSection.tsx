@@ -33,7 +33,7 @@ export default function PortfolioSection() {
 	];
 	return (
 		<section
-			id='about'
+			id='portfolio'
 			className='flex flex-wrap items-center content-center py-6 px-4 sm:px-12 md:px-24 lg:px-36 bg-neutral-100 text-[#1d1d1d] text-center min-h-screen'
 		>
 			<h2 className='text-4xl leading-loose font-bold w-full'>My works</h2>

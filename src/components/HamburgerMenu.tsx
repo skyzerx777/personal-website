@@ -17,10 +17,10 @@ export default function HamburgerMenu({
 					<a href='#skills'>My skills</a>
 				</li>
 				<li className='text-neutral-300 leading-loose hover:text-yellow-400 transition-colors duration-200'>
-					<a href='#'>Portfolio</a>
+					<a href='#portfolio'>Portfolio</a>
 				</li>
 				<li className='text-neutral-300 leading-loose hover:text-yellow-400 transition-colors duration-200 after:block after:mx-auto after:w-12 after:h-[1px] after:bg-neutral-100 after:mt-2'>
-					<a href='#'>Contacts</a>
+					<a href='#contacts'>Contacts</a>
 				</li>
 			</ul>
 		</nav>
